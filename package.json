@@ -1,0 +1,24 @@
+{
+  "name": "purescript-library-list",
+  "author": "hansel-no-kioku",
+  "scripts": {
+    "install": "bower install",
+    "pulp": "pulp",
+    "bower": "bower",
+    "build": "pulp build",
+    "start": "pulp run",
+    "watch": "pulp --watch test",
+    "test": "pulp test"
+  },
+  "dependencies": {
+    "bower": "^1.8.4",
+    "cheerio": "^1.0.0-rc.2",
+    "execa": "^1.0.0",
+    "pulp": "^12.3.0",
+    "puppeteer": "^1.11.0",
+    "purescript": "^0.12.1",
+    "purescript-psa": "^0.7.3",
+    "semver": "^5.6.0"
+  },
+  "private": true
+}
