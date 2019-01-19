@@ -54,7 +54,8 @@ makeContentAll libraryMap = do
 
   where
     header dateTime
-       = "# Purescript Library List\n\n"
+       = "[back](../README.md)\n\n"
+      <> "# Purescript Library List\n\n"
       <> "update: " <> dateTime <> "\n\n"
       <> "| library | version | 0.12 compatibility | Pursuit |\n"
       <> "| :--- | :---: | :---: | :---: |\n"
@@ -83,7 +84,8 @@ makeContent012 libraryMap = do
 
   where
     header dateTime
-       = "# Purescript Library List (compatible with 0.12)\n\n"
+       = "[back](../README.md)\n\n"
+      <> "# Purescript Library List (compatible with 0.12)\n\n"
       <> "update: " <> dateTime <> "\n\n"
       <> "| library | version | dependency | Pursuit |\n"
       <> "| :--- | :---: | :--- | :---: |\n"
