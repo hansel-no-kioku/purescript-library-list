@@ -1,6 +1,8 @@
+[back](../README.md)
+
 # Purescript Library List
 
-update: Sat, 19 Jan 2019 13:05:09 GMT
+update: Sat, 19 Jan 2019 15:14:57 GMT
 
 | library | version | 0.12 compatibility | Pursuit |
 | :--- | :---: | :---: | :---: |
@@ -55,6 +57,7 @@ update: Sat, 19 Jan 2019 13:05:09 GMT
 | purescript-bignumber | 1.0.0 | ✔ | [1.0.0](https://pursuit.purescript.org/packages/purescript-bignumber) |
 | purescript-binary | 0.2.9 |  | [0.2.9](https://pursuit.purescript.org/packages/purescript-binary) |
 | purescript-binary-integers | 0.0.3 |  | [0.0.3](https://pursuit.purescript.org/packages/purescript-binary-integers) |
+| purescript-bip39 | 1.0.0 | ✔ | [1.0.0](https://pursuit.purescript.org/packages/purescript-bip39) |
 | purescript-birds | 1.0.4 |  | [1.0.4](https://pursuit.purescript.org/packages/purescript-birds) |
 | purescript-bismuth | 0.3.1 |  | [0.3.1](https://pursuit.purescript.org/packages/purescript-bismuth) |
 | purescript-bonsai | 0.6.0 |  | [0.6.0](https://pursuit.purescript.org/packages/purescript-bonsai) |
@@ -68,6 +71,7 @@ update: Sat, 19 Jan 2019 13:05:09 GMT
 | purescript-browserfeatures | 5.0.0 |  | [5.0.0](https://pursuit.purescript.org/packages/purescript-browserfeatures) |
 | purescript-bucketchain | 0.3.0 | ✔ | [0.3.0](https://pursuit.purescript.org/packages/purescript-bucketchain) |
 | purescript-bucketchain-basic-auth | 0.2.0 | ✔ | [0.2.0](https://pursuit.purescript.org/packages/purescript-bucketchain-basic-auth) |
+| purescript-bucketchain-conditional | 0.2.0 | ✔ | [0.2.0](https://pursuit.purescript.org/packages/purescript-bucketchain-conditional) |
 | purescript-bucketchain-cors | 0.2.0 | ✔ | [0.2.0](https://pursuit.purescript.org/packages/purescript-bucketchain-cors) |
 | purescript-bucketchain-csrf | 0.1.0 | ✔ | [0.1.0](https://pursuit.purescript.org/packages/purescript-bucketchain-csrf) |
 | purescript-bucketchain-header-utils | 0.1.0 | ✔ | [0.1.0](https://pursuit.purescript.org/packages/purescript-bucketchain-header-utils) |
@@ -197,7 +201,7 @@ update: Sat, 19 Jan 2019 13:05:09 GMT
 | purescript-flarecheck | 4.2.0 |  | [3.0.0](https://pursuit.purescript.org/packages/purescript-flarecheck) |
 | purescript-flaredoc | 4.0.0 |  | [3.0.0](https://pursuit.purescript.org/packages/purescript-flaredoc) |
 | purescript-flatpickr | 1.0.0 |  | [1.0.0](https://pursuit.purescript.org/packages/purescript-flatpickr) |
-| purescript-float32 | 0.0.1 | ✔ | [0.0.1](https://pursuit.purescript.org/packages/purescript-float32) |
+| purescript-float32 | 0.0.2 | ✔ | [0.0.2](https://pursuit.purescript.org/packages/purescript-float32) |
 | purescript-flow-id | 0.1.2 | ✔ | [0.1.2](https://pursuit.purescript.org/packages/purescript-flow-id) |
 | purescript-foldable-traversable | 4.1.1 | ✔ | [4.1.1](https://pursuit.purescript.org/packages/purescript-foldable-traversable) |
 | purescript-folds | 4.0.0 | ✔ | [4.0.0](https://pursuit.purescript.org/packages/purescript-folds) |
@@ -278,6 +282,7 @@ update: Sat, 19 Jan 2019 13:05:09 GMT
 | purescript-idiomatic-node-errors | 0.3.0 | ✔ | [0.3.0](https://pursuit.purescript.org/packages/purescript-idiomatic-node-errors) |
 | purescript-idiomatic-node-events | 0.4.0 | ✔ | [0.4.0](https://pursuit.purescript.org/packages/purescript-idiomatic-node-events) |
 | purescript-idiomatic-node-http | 0.4.0 | ✔ | [0.4.0](https://pursuit.purescript.org/packages/purescript-idiomatic-node-http) |
+| purescript-idiomatic-node-process | 0.3.0 | ✔ | [0.3.0](https://pursuit.purescript.org/packages/purescript-idiomatic-node-process) |
 | purescript-idiomatic-node-server | 0.5.0 | ✔ | [0.5.0](https://pursuit.purescript.org/packages/purescript-idiomatic-node-server) |
 | purescript-idiomatic-node-stream | 0.6.0 | ✔ | [0.6.0](https://pursuit.purescript.org/packages/purescript-idiomatic-node-stream) |
 | purescript-impur | 0.0.6 |  | [0.0.6](https://pursuit.purescript.org/packages/purescript-impur) |
@@ -495,6 +500,7 @@ update: Sat, 19 Jan 2019 13:05:09 GMT
 | purescript-quickcheck | 5.0.0 | ✔ | [5.0.0](https://pursuit.purescript.org/packages/purescript-quickcheck) |
 | purescript-quickcheck-combinators | 0.1.1 | ✔ | [0.1.1](https://pursuit.purescript.org/packages/purescript-quickcheck-combinators) |
 | purescript-quickcheck-laws | 4.0.0 | ✔ | [4.0.0](https://pursuit.purescript.org/packages/purescript-quickcheck-laws) |
+| purescript-quickserve | 3.0.0 | ✔ | [3.0.0](https://pursuit.purescript.org/packages/purescript-quickserve) |
 | purescript-quill | 0.3.0 | ✔ | [0.3.0](https://pursuit.purescript.org/packages/purescript-quill) |
 | purescript-quotient | 2.0.0 | ✔ | [2.0.0](https://pursuit.purescript.org/packages/purescript-quotient) |
 | purescript-random | 4.0.0 | ✔ | [4.0.0](https://pursuit.purescript.org/packages/purescript-random) |
@@ -573,6 +579,7 @@ update: Sat, 19 Jan 2019 13:05:09 GMT
 | purescript-shoronpo | 0.3.0 | ✔ | [0.3.0](https://pursuit.purescript.org/packages/purescript-shoronpo) |
 | purescript-signal | 10.1.0 | ✔ | [10.1.0](https://pursuit.purescript.org/packages/purescript-signal) |
 | purescript-signal-loop | 2.0.0 |  | [2.0.0](https://pursuit.purescript.org/packages/purescript-signal-loop) |
+| purescript-sijidou | 0.1.0 | ✔ | [0.1.0](https://pursuit.purescript.org/packages/purescript-sijidou) |
 | purescript-simple-ajax | 0.5.0 | ✔ | [0.5.0](https://pursuit.purescript.org/packages/purescript-simple-ajax) |
 | purescript-simple-child-process | 0.1.0 |  | [0.1.0](https://pursuit.purescript.org/packages/purescript-simple-child-process) |
 | purescript-simple-datetime | 0.1.1 | ✔ | [0.1.1](https://pursuit.purescript.org/packages/purescript-simple-datetime) |
@@ -596,6 +603,7 @@ update: Sat, 19 Jan 2019 13:05:09 GMT
 | purescript-sockjs-client | 0.1.1 |  | [0.1.1](https://pursuit.purescript.org/packages/purescript-sockjs-client) |
 | purescript-sockjs-node | 0.1.1 |  | [0.1.1](https://pursuit.purescript.org/packages/purescript-sockjs-node) |
 | purescript-sodium | 2.1.0 | ✔ | [2.1.0](https://pursuit.purescript.org/packages/purescript-sodium) |
+| purescript-sorted-arrays | 0.2.0 | ✔ | [0.2.0](https://pursuit.purescript.org/packages/purescript-sorted-arrays) |
 | purescript-soundfonts | 3.0.0 | ✔ | [3.0.0](https://pursuit.purescript.org/packages/purescript-soundfonts) |
 | purescript-sparkle | 4.2.0 |  | [4.2.0](https://pursuit.purescript.org/packages/purescript-sparkle) |
 | purescript-sparrow | 0.0.6 | ✔ | [0.0.6](https://pursuit.purescript.org/packages/purescript-sparrow) |
@@ -736,4 +744,5 @@ update: Sat, 19 Jan 2019 13:05:09 GMT
 | purescript-yargs | 4.0.0 | ✔ | [4.0.0](https://pursuit.purescript.org/packages/purescript-yargs) |
 | purescript-yarn | 4.0.0 | ✔ | [4.0.0](https://pursuit.purescript.org/packages/purescript-yarn) |
 | purescript-yayamll | 1.1.0 | ✔ | [1.1.0](https://pursuit.purescript.org/packages/purescript-yayamll) |
+| purescript-zeromq | 0.0.5 | ✔ | [0.0.5](https://pursuit.purescript.org/packages/purescript-zeromq) |
 | purescript-zeta | 4.0.0 | ✔ | [4.0.0](https://pursuit.purescript.org/packages/purescript-zeta) |
